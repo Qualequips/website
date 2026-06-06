@@ -19,12 +19,12 @@ export const productsData: Product[] = [
     "brand": "Infivision",
     "authorizedDealer": true,
     "description": "Electrical Impedance Tomography system by Infivision.",
-    "longDescription": "The Infivision ET1000 is a state-of-the-art Electrical Impedance Tomography solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Infivision ET1000 is a premium Electrical Impedance Tomography solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/infivision_et1000.jpeg"
     ],
     "features": [
-      "Bedside, non-invasive and radiation-free lung monitoring",
+      "Bedside, non invasive and radiation free lung monitoring",
       "Quick assessment of ventilation and perfusion",
       "Continuous monitoring with visual analysis tools",
       "Supports individualized respiratory management",
@@ -32,7 +32,7 @@ export const productsData: Product[] = [
     ],
     "specifications": {
       "Imaging Technology": "Electrical Impedance Tomography",
-      "Radiation": "Zero (Non-Invasive)",
+      "Radiation": "Zero (non invasive)",
       "Assessment": "Quick Ventilation & Perfusion",
       "Applications": "ARDS, COPD, PEEP titration, Prone Position",
       "Continuous Monitoring": "Yes",
@@ -46,7 +46,7 @@ export const productsData: Product[] = [
     "brand": "Prunus",
     "authorizedDealer": true,
     "description": "Anaesthesia Workstation system by Prunus.",
-    "longDescription": "The Prunus Boaray 600 is a state-of-the-art Anaesthesia Workstation solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Prunus Boaray 600 is a premium Anaesthesia Workstation solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/prunus_boaray_600.jpeg"
     ],
@@ -75,15 +75,15 @@ export const productsData: Product[] = [
     "brand": "Prunus",
     "authorizedDealer": true,
     "description": "Anaesthesia Workstation system by Prunus.",
-    "longDescription": "The Prunus Boaray 700 is a state-of-the-art Anaesthesia Workstation solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Prunus Boaray 700 is a premium Anaesthesia Workstation solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/prunus_boaray_700.jpeg"
     ],
     "features": [
-      "Plug-and-play monitoring module design",
+      "plug and play monitoring module design",
       "Digital flow meter",
       "Supports SpO2 monitoring",
-      "More high-performance accessories available such as gas vaporizer, AGSS and ACGO",
+      "More high performance accessories available such as gas vaporizer, AGSS and ACGO",
       "15-inch color touch screen",
       "Displays 4 waveforms, 2 loops and 20+ parameters"
     ],
@@ -104,12 +104,12 @@ export const productsData: Product[] = [
     "brand": "Surgnova",
     "authorizedDealer": true,
     "description": "Ultrasonic Scalpel System system by Surgnova.",
-    "longDescription": "The Surgnova SoniCure SC100E is a state-of-the-art Ultrasonic Scalpel System solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Surgnova SoniCure SC100E is a premium Ultrasonic Scalpel System solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/surgnova_sonicure_sc100e.jpeg"
     ],
     "features": [
-      "High-speed frequency tracking",
+      "high speed frequency tracking",
       "Superior dissection speed",
       "Less thermal damage",
       "Intelligent transection sensing technology",
@@ -118,7 +118,7 @@ export const productsData: Product[] = [
     ],
     "specifications": {
       "Surgical Modality": "Ultrasonic Scalpel",
-      "Frequency Tracking": "High-speed 55.5 kHz",
+      "Frequency Tracking": "high speed 55.5 kHz",
       "Tissue Effect": "Simultaneous Cutting and Coagulation",
       "Vessel Sealing": "Seal vessels up to 7mm",
       "Procedures": "Open & Laparoscopic surgeries",
@@ -133,7 +133,7 @@ export const productsData: Product[] = [
     "brand": "LED",
     "authorizedDealer": true,
     "description": "Electrosurgical Unit system by LED.",
-    "longDescription": "The LED Surtron 400 HP is a state-of-the-art Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The LED Surtron 400 HP is a premium Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/led_surtron_400_hp.jpeg"
     ],
@@ -146,7 +146,7 @@ export const productsData: Product[] = [
       "Argon compatible"
     ],
     "specifications": {
-      "Device Type": "High-Frequency Electrosurgical Unit",
+      "Device Type": "high frequency Electrosurgical Unit",
       "Functions": "Monopolar / Bipolar Cut & Coagulation",
       "Vessel Sealing": "Up to 7mm diameter",
       "Argon Compatibility": "Integrated / Compatible",
@@ -161,7 +161,7 @@ export const productsData: Product[] = [
     "brand": "LED",
     "authorizedDealer": true,
     "description": "Electrosurgical Unit system by LED.",
-    "longDescription": "The LED Surtron 200 HP is a state-of-the-art Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The LED Surtron 200 HP is a premium Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/led_surtron_200_hp.jpeg"
     ],
@@ -174,7 +174,7 @@ export const productsData: Product[] = [
       "Argon compatible"
     ],
     "specifications": {
-      "Device Type": "High-Frequency Electrosurgical Unit",
+      "Device Type": "high frequency Electrosurgical Unit",
       "Functions": "Monopolar / Bipolar Cut & Coagulation",
       "Vessel Sealing": "Up to 7mm diameter",
       "Argon Compatibility": "Integrated / Compatible",
@@ -189,7 +189,7 @@ export const productsData: Product[] = [
     "brand": "LED",
     "authorizedDealer": true,
     "description": "Electrosurgical Unit system by LED.",
-    "longDescription": "The LED Surtron 400 Touch is a state-of-the-art Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The LED Surtron 400 Touch is a premium Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/led_surtron_400_touch.jpeg"
     ],
@@ -203,7 +203,7 @@ export const productsData: Product[] = [
       "Integrated argon unit"
     ],
     "specifications": {
-      "Device Type": "High-Frequency Electrosurgical Unit",
+      "Device Type": "high frequency Electrosurgical Unit",
       "Functions": "Monopolar / Bipolar Cut & Coagulation",
       "Vessel Sealing": "Up to 7mm diameter",
       "Interface": "9-inch capacitive glass touchscreen",
@@ -220,20 +220,20 @@ export const productsData: Product[] = [
     "brand": "LED",
     "authorizedDealer": true,
     "description": "Electrosurgical Unit system by LED.",
-    "longDescription": "The LED Surtron 200 Touch is a state-of-the-art Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The LED Surtron 200 Touch is a premium Electrosurgical Unit solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/led_surtron_200_touch.jpeg"
     ],
     "features": [
-      "High-frequency electrosurgical unit",
-      "User-friendly operation",
+      "high frequency electrosurgical unit",
+      "user friendly operation",
       "Vessel sealing function",
       "Underwater bipolar cut",
       "Split return electrode use allowed",
       "Minimally invasive surgical treatment"
     ],
     "specifications": {
-      "Device Type": "High-Frequency Electrosurgical Unit",
+      "Device Type": "high frequency Electrosurgical Unit",
       "Functions": "Monopolar / Bipolar Cut & Coagulation",
       "Vessel Sealing": "Up to 7mm diameter",
       "Interface": "9-inch capacitive glass touchscreen",
@@ -249,13 +249,13 @@ export const productsData: Product[] = [
     "brand": "Ababil",
     "authorizedDealer": true,
     "description": "Respiratory Therapy system by Ababil.",
-    "longDescription": "The Ababil S1 CPAP is a state-of-the-art Respiratory Therapy solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Ababil S1 CPAP is a premium Respiratory Therapy solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/ababil_s1_cpap.jpeg"
     ],
     "features": [
-      "Auto-fix / comfort-focused algorithm",
-      "Low-noise operation",
+      "Auto-fix / comfort focused algorithm",
+      "low noise operation",
       "Optional wireless SpO2 support",
       "Automatic ramp",
       "Intelligent heating",
@@ -264,11 +264,11 @@ export const productsData: Product[] = [
       "Automatic humidity"
     ],
     "specifications": {
-      "Therapy Type": "Non-Invasive Ventilation (CPAP/BiPAP)",
+      "Therapy Type": "non invasive Ventilation (CPAP/BiPAP)",
       "Operation Noise": "Ultra-low noise operation",
       "Humidification": "Intelligent heating and humidity",
       "Leak Compensation": "Automatic dynamic leak compensation",
-      "Algorithm": "Comfort-focused auto-fix",
+      "Algorithm": "comfort focused auto-fix",
       "Brochure Reference": "Page(s): 7,8"
     }
   },
@@ -279,13 +279,13 @@ export const productsData: Product[] = [
     "brand": "Ababil",
     "authorizedDealer": true,
     "description": "Respiratory Therapy system by Ababil.",
-    "longDescription": "The Ababil S2 BiPAP is a state-of-the-art Respiratory Therapy solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Ababil S2 BiPAP is a premium Respiratory Therapy solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/ababil_s2_bipap.jpeg"
     ],
     "features": [
-      "Auto-fix / comfort-focused algorithm",
-      "Low-noise operation",
+      "Auto-fix / comfort focused algorithm",
+      "low noise operation",
       "Optional wireless SpO2 support",
       "Automatic ramp",
       "Intelligent heating",
@@ -295,11 +295,11 @@ export const productsData: Product[] = [
       "BiPAP therapy"
     ],
     "specifications": {
-      "Therapy Type": "Non-Invasive Ventilation (CPAP/BiPAP)",
+      "Therapy Type": "non invasive Ventilation (CPAP/BiPAP)",
       "Operation Noise": "Ultra-low noise operation",
       "Humidification": "Intelligent heating and humidity",
       "Leak Compensation": "Automatic dynamic leak compensation",
-      "Algorithm": "Comfort-focused auto-fix",
+      "Algorithm": "comfort focused auto-fix",
       "Brochure Reference": "Page(s): 7,8"
     }
   },
@@ -310,7 +310,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight P22 is a state-of-the-art Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight P22 is a premium Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_p22.jpeg"
     ],
@@ -339,7 +339,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight P18 is a state-of-the-art Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight P18 is a premium Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_p18.jpeg"
     ],
@@ -368,7 +368,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight P15 is a state-of-the-art Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight P15 is a premium Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_p15.jpeg"
     ],
@@ -397,7 +397,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight P12 is a state-of-the-art Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight P12 is a premium Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_p12.jpeg"
     ],
@@ -426,7 +426,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Compact Non-Touch Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M12 is a state-of-the-art Compact Non-Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M12 is a premium Compact Non-Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m12.jpeg"
     ],
@@ -455,7 +455,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Compact Non-Touch Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M10 is a state-of-the-art Compact Non-Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M10 is a premium Compact Non-Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m10.jpeg"
     ],
@@ -484,7 +484,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Compact Touch Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight S12 is a state-of-the-art Compact Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight S12 is a premium Compact Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_s12.jpeg"
     ],
@@ -513,7 +513,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Compact Touch Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight S10 is a state-of-the-art Compact Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight S10 is a premium Compact Touch Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_s10.jpeg"
     ],
@@ -542,7 +542,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Vital Sign Monitor system by Biolight.",
-    "longDescription": "The Biolight V6 is a state-of-the-art Vital Sign Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight V6 is a premium Vital Sign Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_v6.jpeg"
     ],
@@ -571,7 +571,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "ECG Machine system by Biolight.",
-    "longDescription": "The Biolight E65 is a state-of-the-art ECG Machine solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight E65 is a premium ECG Machine solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_e65.jpeg"
     ],
@@ -579,7 +579,7 @@ export const productsData: Product[] = [
       "8-inch color widescreen LCD",
       "12-channel synchronous display",
       "Computer keyboard input and full-screen touch operation",
-      "High-definition low-noise thermal recorder",
+      "High-definition low noise thermal recorder",
       "Supports external USB printer and barcode scanner"
     ],
     "specifications": {
@@ -598,7 +598,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Handheld Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M850 is a state-of-the-art Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M850 is a premium Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m850.jpeg"
     ],
@@ -621,7 +621,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Handheld Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M860 is a state-of-the-art Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M860 is a premium Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m860.jpeg"
     ],
@@ -644,7 +644,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Handheld Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M880 is a state-of-the-art Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M880 is a premium Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m880.jpeg"
     ],
@@ -667,7 +667,7 @@ export const productsData: Product[] = [
     "brand": "Biolight",
     "authorizedDealer": true,
     "description": "Handheld Patient Monitor system by Biolight.",
-    "longDescription": "The Biolight M800 is a state-of-the-art Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Biolight M800 is a premium Handheld Patient Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/biolight_m800.jpeg"
     ],
@@ -690,7 +690,7 @@ export const productsData: Product[] = [
     "brand": "Ababil",
     "authorizedDealer": true,
     "description": "Defibrillator system by Ababil.",
-    "longDescription": "The Ababil D7 Defibrillator is a state-of-the-art Defibrillator solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Ababil D7 Defibrillator is a premium Defibrillator solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/ababil_d7_defibrillator.jpeg"
     ],
@@ -711,7 +711,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Syringe Pump / Infusion Pump system by Medcaptain.",
-    "longDescription": "The Medcaptain MP-30 is a state-of-the-art Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain MP-30 is a premium Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_mp_30.jpeg"
     ],
@@ -739,7 +739,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Syringe Pump / Infusion Pump system by Medcaptain.",
-    "longDescription": "The Medcaptain MP-60 is a state-of-the-art Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain MP-60 is a premium Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_mp_60.jpeg"
     ],
@@ -767,7 +767,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Syringe Pump / Infusion Pump system by Medcaptain.",
-    "longDescription": "The Medcaptain HP-30 is a state-of-the-art Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain HP-30 is a premium Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_hp_30.jpeg"
     ],
@@ -797,7 +797,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Syringe Pump / Infusion Pump system by Medcaptain.",
-    "longDescription": "The Medcaptain HP-60 is a state-of-the-art Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain HP-60 is a premium Syringe Pump / Infusion Pump solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_hp_60.jpeg"
     ],
@@ -827,7 +827,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Video Laryngoscope system by Medcaptain.",
-    "longDescription": "The Medcaptain Video Laryngoscope is a state-of-the-art Video Laryngoscope solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain Video Laryngoscope is a premium Video Laryngoscope solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_video_laryngoscope.png"
     ],
@@ -854,7 +854,7 @@ export const productsData: Product[] = [
     "brand": "Medcaptain",
     "authorizedDealer": true,
     "description": "Enteral Feeding Pump system by Medcaptain.",
-    "longDescription": "The Medcaptain Enteral Feeding Pump is a state-of-the-art Enteral Feeding Pump solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Medcaptain Enteral Feeding Pump is a premium Enteral Feeding Pump solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/medcaptain_enteral_feeding_pump.jpeg"
     ],
@@ -885,7 +885,7 @@ export const productsData: Product[] = [
     "brand": "Suntech",
     "authorizedDealer": true,
     "description": "ABPM system by Suntech.",
-    "longDescription": "The Suntech Oscar 2 is a state-of-the-art ABPM solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Suntech Oscar 2 is a premium ABPM solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/suntech_oscar_2.jpeg"
     ],
@@ -912,7 +912,7 @@ export const productsData: Product[] = [
     "brand": "Suntech",
     "authorizedDealer": true,
     "description": "Stress BP Monitor system by Suntech.",
-    "longDescription": "The Suntech Tango M2 is a state-of-the-art Stress BP Monitor solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Suntech Tango M2 is a premium Stress BP Monitor solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/suntech_tango_m2.jpeg"
     ],
@@ -937,8 +937,8 @@ export const productsData: Product[] = [
     "category": "Critical Care",
     "brand": "Suntech",
     "authorizedDealer": true,
-    "description": "Spot-check Device system by Suntech.",
-    "longDescription": "The Suntech CT-40 is a state-of-the-art Spot-check Device solution designed for optimal performance and reliability in clinical settings.",
+    "description": "spot check Device system by Suntech.",
+    "longDescription": "The Suntech CT-40 is a premium spot check Device solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/suntech_ct_40.jpeg"
     ],
@@ -950,7 +950,7 @@ export const productsData: Product[] = [
     ],
     "specifications": {
       "Measurement Technology": "AdvantAge Clinical-Grade BP",
-      "Applications": "Spot-check Ward Operations",
+      "Applications": "spot check Ward Operations",
       "Motion Tolerance": "High interference rejection algorithms",
       "Clinical Validations": "BHS, ESH, AAMI, ISO 81060-2 listed",
       "Brochure Reference": "Page(s): 21"
@@ -963,7 +963,7 @@ export const productsData: Product[] = [
     "brand": "Sleepnet",
     "authorizedDealer": true,
     "description": "Full Face Mask mask by Sleepnet.",
-    "longDescription": "The Sleepnet Veraseal 2 is a state-of-the-art Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Sleepnet Veraseal 2 is a premium Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/sleepnet_veraseal_2.jpeg"
     ],
@@ -990,7 +990,7 @@ export const productsData: Product[] = [
     "brand": "Sleepnet",
     "authorizedDealer": true,
     "description": "Full Face Mask mask by Sleepnet.",
-    "longDescription": "The Sleepnet Veraseal 3 is a state-of-the-art Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Sleepnet Veraseal 3 is a premium Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/sleepnet_veraseal_3.jpeg"
     ],
@@ -1017,7 +1017,7 @@ export const productsData: Product[] = [
     "brand": "Sleepnet",
     "authorizedDealer": true,
     "description": "Full Face Mask mask by Sleepnet.",
-    "longDescription": "The Sleepnet Mojo 2 is a state-of-the-art Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Sleepnet Mojo 2 is a premium Full Face Mask solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/sleepnet_mojo_2.jpeg"
     ],
@@ -1044,7 +1044,7 @@ export const productsData: Product[] = [
     "brand": "Sleepnet",
     "authorizedDealer": true,
     "description": "Full Face Mask & Nasal Mask mask by Sleepnet.",
-    "longDescription": "The Sleepnet Ascend is a state-of-the-art Full Face Mask & Nasal Mask solution designed for optimal performance and reliability in clinical settings.",
+    "longDescription": "The Sleepnet Ascend is a premium Full Face Mask & Nasal Mask solution designed for optimal performance and reliability in clinical settings.",
     "images": [
       "/images/products/sleepnet_ascend.jpeg"
     ],

@@ -37,7 +37,7 @@ const ProductCard: React.FC<ProductCardProps> = ({
           <span className="product-badge">{category}</span>
           {authorizedDealer && brand && (
             <span className="product-badge authorized-badge" style={{ backgroundColor: '#FF8A00', display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-              <ShieldCheck size={12} /> Authorized {brand}
+              <ShieldCheck size={12} /> Authorized {brand} Distributor
             </span>
           )}
         </div>

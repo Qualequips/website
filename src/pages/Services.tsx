@@ -31,7 +31,7 @@ const servicesOptions = [
   },
   {
     title: "Comprehensive AMC (CAMC)",
-    description: "Complete end-to-end maintenance coverage for long-term equipment performance.",
+    description: "Complete end to end maintenance coverage for long-term equipment performance.",
     icon: <ShieldCheck size={32} className="text-accent" />,
     points: [
       "All AMC benefits included",

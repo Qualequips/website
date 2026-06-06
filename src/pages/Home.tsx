@@ -10,7 +10,7 @@ const Home: React.FC = () => {
     <div className="home-page animate-fade-in">
       <SEO 
         title="Home"
-        description="QualEquips is your trusted partner for premium medical devices and hospital equipment in Kerala. We provide state-of-the-art critical care furniture, patient monitors, and clinical solutions."
+        description="QualEquips is your trusted partner for premium medical devices and hospital equipment in Kerala. We provide premium critical care furniture, patient monitors, and clinical solutions."
         keywords="medical devices Kerala, hospital equipment Kochi, Ababil healthcare, patient monitors, ICU beds, Medcaptain pumps"
       />
 
@@ -24,7 +24,7 @@ const Home: React.FC = () => {
               Elevating Patient Care Through Quality Equipment
             </h1>
             <p className="hero-desc">
-              Your trusted partner in medical device distribution across Kerala. We provide state-of-the-art critical care hospital furniture and clinical solutions.
+              Your trusted partner in medical device distribution across Kerala. We provide premium critical care hospital furniture and clinical solutions.
             </p>
             <div className="hero-actions">
               <Button asLink to="/products" variant="accent" size="lg">
@@ -81,7 +81,7 @@ const Home: React.FC = () => {
         <div className="container">
           <div className="section-header">
             <h2>Our Core Categories</h2>
-            <p>Discover our comprehensive range of high-performance medical equipment designed for modern healthcare facilities.</p>
+            <p>Discover our comprehensive range of high performance medical equipment designed for modern healthcare facilities.</p>
           </div>
           
           <div className="categories-grid">
@@ -116,23 +116,23 @@ const Home: React.FC = () => {
         <div className="container about-container">
           <div className="about-content">
             <span className="section-tag text-primary">About QualEquips</span>
-            <h2>Bridging the gap between cutting-edge technology and patient care.</h2>
+            <h2>Bridging the gap between advanced medical technology and patient care.</h2>
             <p className="text-muted">
-              Based in the heart of Kochi, Kerala, QualEquips is a rising leader in medical device distribution. Our mission is to equip healthcare providers with the most reliable, efficient, and technologically advanced medical tools available.
+              Based in the heart of Kochi, Kerala, QualEquips is a trusted leader in medical device distribution. We are dedicated to equipping healthcare providers with the most reliable, efficient, and technologically superior medical tools available.
             </p>
             
             <ul className="about-list">
               <li>
                 <CheckCircle2 size={20} className="text-success" />
-                <span>Authorized distributor of <strong>Ababil Healthcare</strong></span>
+                <span>Authorized partner of leading global medical brands</span>
               </li>
               <li>
                 <CheckCircle2 size={20} className="text-success" />
-                <span>Offering end-to-end operation theatre setups</span>
+                <span>Offering complete end to end operation theatre installations</span>
               </li>
               <li>
                 <CheckCircle2 size={20} className="text-success" />
-                <span>Extensive catalog of hospital beds and ward furniture</span>
+                <span>Extensive selection of premium hospital beds and ward furniture</span>
               </li>
             </ul>
             
@@ -141,10 +141,7 @@ const Home: React.FC = () => {
             </Button>
           </div>
           <div className="about-image">
-             {/* We use a placeholder div that we style with a gradient to represent an image */}
-             <div className="image-placeholder shadow-lg">
-                <span className="image-placeholder-text">Medical Facility Setup</span>
-             </div>
+             <img src="/images/facility_setup.png" alt="Medical Facility Setup" className="about-img shadow-lg" />
           </div>
         </div>
       </section>
