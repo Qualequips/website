@@ -50,11 +50,39 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <Phone size={18} className="text-secondary" />
-                <span>+91 70124 26069</span>
+                <div>
+                  <span style={{ display: 'block', fontSize: '0.8rem', opacity: 0.7 }}>Phone (Domestic)</span>
+                  <span style={{ display: 'block' }}><a href="tel:+919605482625" style={{ color: 'inherit', textDecoration: 'none' }}>+91 9605482625</a></span>
+                  <span style={{ display: 'block' }}><a href="tel:+917012426069" style={{ color: 'inherit', textDecoration: 'none' }}>+91 70124 26069</a></span>
+                </div>
+              </li>
+              <li>
+                <Phone size={18} className="text-secondary" />
+                <div>
+                  <span style={{ display: 'block', fontSize: '0.8rem', opacity: 0.7 }}>Phone (International)</span>
+                  <span><a href="tel:+918589891648" style={{ color: 'inherit', textDecoration: 'none' }}>+91 8589891648</a></span>
+                </div>
               </li>
               <li>
                 <Mail size={18} className="text-secondary" />
-                <span>info@qualequips.com</span>
+                <div>
+                  <span style={{ display: 'block', fontSize: '0.8rem', opacity: 0.7 }}>Email (General)</span>
+                  <span><a href="mailto:info@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>info@qualequips.com</a></span>
+                </div>
+              </li>
+              <li>
+                <Mail size={18} className="text-secondary" />
+                <div>
+                  <span style={{ display: 'block', fontSize: '0.8rem', opacity: 0.7 }}>Email (Service)</span>
+                  <span><a href="mailto:service@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>service@qualequips.com</a></span>
+                </div>
+              </li>
+              <li>
+                <Mail size={18} className="text-secondary" />
+                <div>
+                  <span style={{ display: 'block', fontSize: '0.8rem', opacity: 0.7 }}>Email (International)</span>
+                  <span><a href="mailto:international@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>international@qualequips.com</a></span>
+                </div>
               </li>
             </ul>
           </div>

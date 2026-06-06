@@ -5,13 +5,15 @@ interface SEOProps {
   description: string;
   keywords?: string;
   type?: string;
+  schemaMarkup?: string;
 }
 
 const SEO: React.FC<SEOProps> = ({ 
   title, 
   description, 
   keywords, 
-  type = 'website' 
+  type = 'website',
+  schemaMarkup
 }) => {
   const siteName = 'QualEquips';
   const fullTitle = `${title} | ${siteName}`;
@@ -34,6 +36,12 @@ const SEO: React.FC<SEOProps> = ({
       <meta name="twitter:title" content={fullTitle} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content="https://www.qualequips.com/images/logo.png" />
+      
+      {schemaMarkup && (
+        <script type="application/ld+json">
+          {schemaMarkup}
+        </script>
+      )}
     </Helmet>
   );
 };

@@ -44,8 +44,18 @@ const Contact: React.FC = () => {
                   <Phone size={24} className="text-primary" />
                 </div>
                 <div>
-                  <strong>Phone</strong>
-                  <span>+91 70124 26069</span>
+                  <strong>Phone (Domestic)</strong>
+                  <span style={{ display: 'block' }}><a href="tel:+919605482625" style={{ color: 'inherit', textDecoration: 'none' }}>+91 9605482625</a></span>
+                  <span style={{ display: 'block' }}><a href="tel:+917012426069" style={{ color: 'inherit', textDecoration: 'none' }}>+91 70124 26069</a></span>
+                </div>
+              </li>
+              <li>
+                <div className="icon-wrapper">
+                  <Phone size={24} className="text-primary" />
+                </div>
+                <div>
+                  <strong>Phone (International)</strong>
+                  <span><a href="tel:+918589891648" style={{ color: 'inherit', textDecoration: 'none' }}>+91 8589891648</a></span>
                 </div>
               </li>
               <li>
@@ -53,8 +63,26 @@ const Contact: React.FC = () => {
                   <Mail size={24} className="text-primary" />
                 </div>
                 <div>
-                  <strong>Email</strong>
-                  <span>sales@qualequips.com</span>
+                  <strong>Email (Sales & Support)</strong>
+                  <span><a href="mailto:sales@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>sales@qualequips.com</a></span>
+                </div>
+              </li>
+              <li>
+                <div className="icon-wrapper">
+                  <Mail size={24} className="text-primary" />
+                </div>
+                <div>
+                  <strong>Email (Service & Support)</strong>
+                  <span><a href="mailto:service@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>service@qualequips.com</a></span>
+                </div>
+              </li>
+              <li>
+                <div className="icon-wrapper">
+                  <Mail size={24} className="text-primary" />
+                </div>
+                <div>
+                  <strong>Email (International Business)</strong>
+                  <span><a href="mailto:international@qualequips.com" style={{ color: 'inherit', textDecoration: 'none' }}>international@qualequips.com</a></span>
                 </div>
               </li>
             </ul>
